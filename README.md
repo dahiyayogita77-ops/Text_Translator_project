@@ -20,11 +20,9 @@ Perfect for college students, beginners, and anyone who wants to explore Python 
 🛠️ Technologies Used
 
 Python 3
-
 Deep Translator Library
-
 Command-Line Interface (CLI)
-
+Tkinter
 
 
 ---
@@ -32,28 +30,9 @@ Command-Line Interface (CLI)
 📂 Project Structure
 
 📦 text-translator
-├── translator.py        # Main Python script
-├── README.md            # Project documentation
-└── requirements.txt     # Required dependencies
-
-
----
-
-⚡ Installation & Setup
-
-1️⃣ Clone the repository
-
-git clone https://github.com/your-username/text-translator.git
-cd text-translator
-
-2️⃣ Install dependencies
-
-pip install deep-translator
-
-3️⃣ Run the project
-
-python translator.py
-
+├── translator.py\       # Main Python script
+├── README.md\            # Project documentation
+└── text_translator.gui.py\     # Required dependencies
 
 ---
 
@@ -94,19 +73,6 @@ English, Hindi, French, Spanish, German, Italian, Japanese, Chinese, Korean, Ara
 
 ---
 
-🤝 Contributing
-
-Contributions are welcome!
-
-Fork the repository
-
-Make your changes
-
-Submit a pull request
-
-
-
----
 
 📜 License
 
