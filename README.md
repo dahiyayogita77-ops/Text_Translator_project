@@ -1,4 +1,4 @@
-## the 🌐 Text Translator
+## 🌐 Text Translator
 
 A simple and user-friendly Python-based text translator that allows users to translate text from one language to another using the Deep Translator library.
 Perfect for college students, beginners, and anyone who wants to explore Python projects.
